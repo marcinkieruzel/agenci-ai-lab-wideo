@@ -1,0 +1,12 @@
+2026-10-03T20:51:02Z INFO  enc-02 channel=sport-1 ladder=1080p/720p/540p/360p gop=2s status=OK
+2026-10-03T20:55:40Z INFO  enc-04 channel=news-24 status=OK
+2026-10-03T21:00:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:05:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:10:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:10:12Z WARN  enc-05 channel=film-hd audio_loudness=-19.8LUFS target=-23LUFS
+2026-10-03T21:15:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:20:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:22:31Z WARN  enc-05 channel=film-hd audio_loudness=-20.1LUFS target=-23LUFS
+2026-10-03T21:25:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:30:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
+2026-10-03T21:35:00Z INFO  enc-02 channel=sport-1 heartbeat output_bitrate_kbps=6200/3800/2100/900
